@@ -18,7 +18,7 @@
     and run the application and follow the instruction
  # Installation on MACOSX
 
-* Find the installation guide [here](https://github.com/user/repo/blob/branch/other_file.md)
+* Find the installation guide [here](https://support.apple.com/en-us/HT201749)
 # Font Directory List
 ```
 ├── AAKRC___.TTF
