@@ -1,5 +1,5 @@
 # Nepali Font Collection
-> Nepali font was collected in this repo. All front are free to use but are intellectual property of its owner.
+> Nepali font was collected in this repo. All fonts are free to use but are intellectual property of its owner.
 
 # Installation Guide for Different operating System
 
