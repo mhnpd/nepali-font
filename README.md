@@ -1,11 +1,11 @@
 # Nepali Font Collection
-> Nepali font was collected in this repo. All fonts are free to use but are intellectual property of its owner.
+> This repo collect nepali fonts. All fonts are free to use but are intellectual property of its owner.
 
 # Installation Guide for Different operating System
 
 # Installation in Windows
 * Copy all the file inside font folder in control panel/fonts.
-* You can just open the .ttf file and click install on top right corner.
+* Or, just open the .ttf file and click install on top right corner.
 
 
 # Installation in Ubuntu
