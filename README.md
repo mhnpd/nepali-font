@@ -1,3 +1,5 @@
+[![Responsible: A-Team](https://img.shields.io/badge/Responsible-A--Team-blue)](https://your-link-to-responsibility)
+
 # Nepali Font Collection
 > This repo collect nepali fonts. All fonts are free to use but are intellectual property of its owner.
 
